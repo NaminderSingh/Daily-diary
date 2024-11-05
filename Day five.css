@@ -1,0 +1,17 @@
+
+ li {
+    border:2px solid rgb(214, 130, 130);
+    margin:5px;
+    padding: 5px;
+    list-style-position: inside;
+text-align: left;
+background-color: aqua;
+}
+ul,ol{
+    border: 2px solid rgb(214, 130, 130);
+    margin:5px;
+    padding:0;
+    text-align: center;
+    background-color: red;
+    max-width: 50vw;
+}
